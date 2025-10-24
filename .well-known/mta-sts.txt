@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: smtp.google.com
-max_age: 604800
+mx: mx1.hostinger.com
+mx: mx2.hostinger.com
+max_age: 1209600
